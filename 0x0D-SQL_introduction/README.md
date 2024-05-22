@@ -1,0 +1,1 @@
+This Directory contains SQL data definition and manipulation scripts.
